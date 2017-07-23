@@ -1,3 +1,10 @@
+## NOTE ABOUT CODE
+Data loaded in prep_data.r, and saved to an RData set (hh_power_plot.RData)
+to avoid needing to load/utlizile master data set.
+Working directories may need to be changed.
+
+
+
 ## Introduction
 
 This assignment uses data from
