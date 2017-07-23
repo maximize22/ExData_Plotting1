@@ -14,6 +14,6 @@ intvl.frq <- table(intvl.cut)
 png(filename = "plot1.png", width = 480, height = 480)
 
 barplot(intvl.frq, main = "Global Active Power", xlab = 'Global Active Power (kilowatts)',
-          ylab = 'Frequency', axisnames = TRUE)
+          ylab = 'Frequency', axisnames = TRUE, col = 'red')
 dev.off()
 
